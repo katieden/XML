@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<question_form>
+	<name>
+		<first>Екатерина</first>
+		<middle>Александровна</middle>
+		<last>Денисова</last>
+	</name>
+	<age>29</age>
+	<pat_number>0</pat_number>
+</question_form>
